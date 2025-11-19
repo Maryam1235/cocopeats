@@ -225,7 +225,7 @@ function KuhusuPage() {
                             <p>Huboresha muundo wa udongo kimaumbile na kibayolojia kwa muda mrefu.</p>
                         </div>
 
-                        <div className="feature-card">
+                        {/* <div className="feature-card">
                             <div className="feature-icon">💧</div>
                             <h3>Huhifadhi Unyevu</h3>
                             <p>Huhifadhi maji kwa kiwango kikubwa na kupunguza mahitaji ya umwagiliaji.</p>
@@ -295,7 +295,7 @@ function KuhusuPage() {
                             <div className="feature-icon">🥬</div>
                             <h3>Hutoa Mbogamboga Bora</h3>
                             <p>Hutoa mbogamboga bora na zenye mavuno mengi na mazao mengi.</p>
-                        </div>
+                        </div> */}
                     </div>
                 </div>
             </section>
