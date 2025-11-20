@@ -1394,6 +1394,12 @@ select:focus {
 .who-text {
     font-size: 1.1rem;
     line-height: 1.8;
+    color: #333;
+}
+
+.who-text p {
+    margin-bottom: 1.5rem;
+    color: #555;
 }
 
 .who-text strong {
