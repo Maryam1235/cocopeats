@@ -63,7 +63,7 @@ function WasilianaPage() {
                                 </div>
                             </div>
 
-                            <div className="contact-item">
+                            {/* <div className="contact-item">
                                 <div className="contact-icon">📧</div>
                                 <div className="contact-details">
                                     <h3>Barua Pepe</h3>
@@ -71,9 +71,9 @@ function WasilianaPage() {
                                     <p><strong>Mauzo:</strong> sales@freshcocopeat.co.tz</p>
                                     <p><strong>Msaada:</strong> support@freshcocopeat.co.tz</p>
                                 </div>
-                            </div>
+                            </div> */}
 
-                            <div className="contact-item">
+                            {/* <div className="contact-item">
                                 <div className="contact-icon">⏰</div>
                                 <div className="contact-details">
                                     <h3>Muda wa Kufanya Kazi</h3>
@@ -81,7 +81,7 @@ function WasilianaPage() {
                                     <p><strong>Jumamosi:</strong> 9:00 AM - 4:00 PM</p>
                                     <p><strong>Jumapili:</strong> Mapumziko</p>
                                 </div>
-                            </div>
+                            </div> */}
                         </div>
 
                         {/* Contact Form */}
