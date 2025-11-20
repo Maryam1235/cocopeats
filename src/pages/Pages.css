@@ -190,26 +190,30 @@ h3 {
 
 .product-price {
     display: flex;
-    justify-content: space-between;
+    flex-direction: column;
     align-items: center;
+    gap: 1rem;
 }
 
 .price {
     font-size: 1rem;
     font-weight: 700;
     color: #A5CA56;
+    text-align: center;
 }
 
 .order-btn {
     background: linear-gradient(135deg, #244650, #2d5763);
     color: #A5CA56;
     border: 2px solid #A5CA56;
-    padding: 0.5rem 1rem;
+    padding: 0.6rem 1.5rem;
     border-radius: 20px;
     font-weight: 600;
     cursor: pointer;
     transition: all 0.3s ease;
-    font-size: 0.85rem;
+    font-size: 0.9rem;
+    width: 100%;
+    text-align: center;
 }
 
 .order-btn:hover {
@@ -1138,8 +1142,8 @@ h3 {
     }
 
     .products-grid {
-        grid-template-columns: repeat(2, 1fr);
-        gap: 0.8rem;
+        grid-template-columns: 1fr;
+        gap: 1.5rem;
     }
 
     .usage-steps,
