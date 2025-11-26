@@ -658,8 +658,8 @@ h3 {
 
 .contact-grid {
     display: grid;
-    grid-template-columns: 40% 60%;
-    gap: 4rem;
+    grid-template-columns: 45% 55%;
+    gap: 3rem;
     align-items: start;
 }
 
@@ -670,8 +670,6 @@ h3 {
     box-shadow: 0 12px 35px rgba(36, 70, 80, 0.15);
     border-top: 5px solid #A5CA56;
     height: fit-content;
-    position: sticky;
-    top: 100px;
 }
 
 .contact-info-card h2 {
