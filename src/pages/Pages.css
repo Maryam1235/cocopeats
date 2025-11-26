@@ -335,6 +335,24 @@ h3 {
     font-size: 1.2rem;
 }
 
+.step-content {
+    color: #333;
+}
+
+.step-content h3 {
+    color: #244650;
+    margin-bottom: 1rem;
+    font-size: 1.3rem;
+    font-weight: 700;
+}
+
+.step-content p {
+    color: #555;
+    line-height: 1.6;
+    font-size: 1rem;
+    margin-bottom: 1rem;
+}
+
 .step-content img {
     width: 100%;
     height: 200px;
