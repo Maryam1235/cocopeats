@@ -38,7 +38,7 @@ function MatumiziPage() {
 
                         <div className="step-card">
                             <div className="step-number">3</div>
-                            <div className="content">
+                            <div className="step-content">
                                 <h3>Panda au Changanya</h3>
                                 <p>Unaweza kutumia moja kwa moja au kuchanganya na udongo wake. Kwa hydroponic, tumia bila kuongeza chochote.</p>
                                 {/* <img src="/coco-step3.jpg" alt="Kupanda" /> */}
